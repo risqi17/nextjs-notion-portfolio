@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Risqi Ahmad - IT Enthusiast',
   domain: 'risqiahmad.me',
-  author: 'Risqi Ahmad',
+  author: 'Risqi Ahmad S',
 
   // open graph metadata (optional)
   description: 'Risqi Ahmad Profile Site',
